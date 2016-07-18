@@ -1,0 +1,18 @@
+{
+  "name": "object-filter",
+  "version": "1.0.0",
+  "description": "Return a new object whose properties of a subset of the parent",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ray",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
